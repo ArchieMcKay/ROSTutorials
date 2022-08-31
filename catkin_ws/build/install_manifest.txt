@@ -1,0 +1,13 @@
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/_setup_util.py
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/env.sh
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/setup.bash
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/local_setup.bash
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/setup.sh
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/local_setup.sh
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/setup.zsh
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/local_setup.zsh
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/.rosinstall
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/archiem/Development/COMP3760_Labs/ROSTutorials/catkin_ws/install/share/beginner_tutorials/package.xml
